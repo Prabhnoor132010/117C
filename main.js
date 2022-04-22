@@ -31,7 +31,7 @@ function modelLoaded() {
 
 function draw() {
     image(video,0,0,400,300);
-image(clown_nose,nosex,nosey,30,30);
+image(clown_nose,nosex,nosey,30,60);
 
 }
 
