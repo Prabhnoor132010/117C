@@ -1,7 +1,7 @@
 nosex=0;
 nosey=0;
 function preload() {
-  clown_nose=loadImage("https://i.postimg.cc/y6XNSX3X/513clno.jpg")
+  clown_nose=loadImage("https://i.postimg.cc/SxJn2msz/download.png")
 }
 
 function setup() {
